@@ -4,7 +4,7 @@ Projex is an **advanced project management platform** designed to help teams **c
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Overview
 
 ### 🔐 OAuth Authentication  
 Projex uses **OAuth-based authentication** for **secure and hassle-free login**. Users can sign in using third-party providers, ensuring **fast access and data security**.  
