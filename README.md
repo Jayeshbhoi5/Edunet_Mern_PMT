@@ -8,15 +8,15 @@ Projex is an **advanced project management platform** designed to help teams **c
 
 ### 🔐 OAuth Authentication  
 Projex uses **OAuth-based authentication** for **secure and hassle-free login**. Users can sign in using third-party providers, ensuring **fast access and data security**.  
-![OAuth](src/assets/screenshots/OAuth.png)
+![OAuth](OAuth.png)
 
 ### 🖼 Project Board  
 The **Project Board** provides an **intuitive UI to manage tasks**. Users can **track, update, and organize** project milestones with ease.  
-![Project Board](src/assets/screenshots/ProjectBoard.png)
+![Project Board](ProjectBoard.png)
 
 ### 📤 Upload Projects  
 With the **Upload Projects** feature, users can **add, manage, and share** project files effortlessly. It ensures **seamless file handling** within the workspace.  
-![Upload Project](src/assets/screenshots/UploadProject.png)
+![Upload Project](UploadProject.png)
 
 ---
 
